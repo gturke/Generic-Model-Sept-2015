@@ -3,7 +3,7 @@
 #rm(list = ls()) #Clear Environment
 #load("~/.RData")
 
-#Keep only scores dataframe #and oh1?
+#Keep only scores dataframe #and ex1?
 
 unscored <- read.csv("ToBeScored20150909.csv")
 head(unscored)
